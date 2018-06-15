@@ -1,0 +1,4 @@
+Changed1
+
+P- git remote add origin “location of remote repo”
+Changed 2
